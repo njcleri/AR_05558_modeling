@@ -1,1 +1,1 @@
-This repository hosts the code and figures for Cleri et al. 2025, 'Stellar Populations and Accreting Black Holes Are Inseparable in Optical Strong Line Ratios at High Ionization Parameters and Low Metallicities'.
+This repository hosts the code and figures for Cleri et al. 2025, 'Stellar Populations and Accreting Black Holes Are Inseparable in Optical Strong Line Ratios at High Ionization Parameters and Low Metallicities', available here: https://ui.adsabs.harvard.edu/abs/2025arXiv250621660C/abstract.
